@@ -1,1 +1,3 @@
-# funnel-cohort-analysis
+# funnel cohort analysis
+
+## analisis menggunakan excel/spreedsheet untuk funnel & cohort analysis
